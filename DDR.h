@@ -1,9 +1,3 @@
-/*
- * DDR.h
- *
- *  Created on: Oct 28, 2023
- *      Author: HP
- */
 
 #ifndef DDR_H_
 #define DDR_H_
