@@ -1,4 +1,4 @@
-#define F_CPU 8000000UL
+
 
 #include "DIO_private.h"
 #include "STD_types.h"
