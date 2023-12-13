@@ -1,9 +1,4 @@
-/*
- * LCD.h
- *
- *  Created on: Oct 28, 2023
- *      Author: HP
- */
+
 
 #ifndef LCD_H_
 #define LCD_H_
